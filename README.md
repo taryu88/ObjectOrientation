@@ -291,7 +291,7 @@
 
 
 ![image](https://user-images.githubusercontent.com/43172237/96362558-1c5c9580-1169-11eb-8161-205021bf19c4.png)
-(간략한 구조)
+#(간략한 구조)
 
 
 
