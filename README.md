@@ -290,20 +290,18 @@
 - 주방장 : 요리를 하기 위한 식자재
 
 
-![image](https://user-images.githubusercontent.com/43172237/96362558-1c5c9580-1169-11eb-8161-205021bf19c4.png)
-#(간략한 구조)
+![image](https://user-images.githubusercontent.com/43172237/96362558-1c5c9580-1169-11eb-8161-205021bf19c4.png)  
+(간략한 구조)  
 
 
 
 
-![image](https://user-images.githubusercontent.com/43172237/96362925-dfde6900-116b-11eb-913d-d2787e061341.png)
+![image](https://user-images.githubusercontent.com/43172237/96362925-dfde6900-116b-11eb-913d-d2787e061341.png)  
+(손님 객체인 "Client")  
 
-(손님 객체인 "Client")
 
-
-![image](https://user-images.githubusercontent.com/43172237/96362930-ea98fe00-116b-11eb-9a3d-e4c6c2814363.png)
-
-(점원 객체인 "Server")
+![image](https://user-images.githubusercontent.com/43172237/96362930-ea98fe00-116b-11eb-9a3d-e4c6c2814363.png)  
+(점원 객체인 "Server")  
 
 
 ![image](https://user-images.githubusercontent.com/43172237/96362936-f258a280-116b-11eb-9d7a-ac071627dcc1.png)
