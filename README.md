@@ -232,20 +232,41 @@
 위의 내용을 한번 코드로 옮겨 봅시다.
 
 
+1. 객체는 **"손님", "점원", "주방장"** 이 존재한다.
+2. 각 객체의 역할은 아래와 같다.
+- 손님 : 점원에게 주문을 한다
+- 점원 : 주방장에게 요리 지시를 한다
+- 주방장 : 요리를 한다
+3. 각 객체의 상태는 아래와 같다.
+- 손님 : 주문을 하기 위한 필요한 돈을 저장하는 지갑
+- 점원 : 주문 완료 시 계산을 위해 돈을 저장할 지갑
+- 주방장 : 요리를 하기 위한 식자재
+
+
+![image](https://user-images.githubusercontent.com/43172237/96362558-1c5c9580-1169-11eb-8161-205021bf19c4.png)
+
+(간략한 구조)
+
+
 ![image](https://user-images.githubusercontent.com/43172237/96362415-187c4380-1168-11eb-9684-affb7c881396.png)
+
 (손님 객체인 "Client")
 
 
 ![image](https://user-images.githubusercontent.com/43172237/96362419-25009c00-1168-11eb-8b66-fdcb923b0d20.png)
+
 (점원 객체인 "Server")
 
 
-![image](https://user-images.githubusercontent.com/43172237/96362424-3184f480-1168-11eb-97e4-8327b78149d0.png)
+![image](https://user-images.githubusercontent.com/43172237/96362646-bae8f680-1169-11eb-8111-f8de61d6cc45.png)
+
 (주방장 객체인 "Chef")
 
 
 ![image](https://user-images.githubusercontent.com/43172237/96362435-3cd82000-1168-11eb-8db2-859a2a3f37cb.png)
+
 (메뉴 객체인 "Menu")
+
 
 
 
