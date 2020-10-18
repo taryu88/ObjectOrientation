@@ -292,32 +292,28 @@
 
 ![image](https://user-images.githubusercontent.com/43172237/96362558-1c5c9580-1169-11eb-8161-205021bf19c4.png)  
 (간략한 구조)  
-
-
-
-
+  
+  
 ![image](https://user-images.githubusercontent.com/43172237/96362925-dfde6900-116b-11eb-913d-d2787e061341.png)  
 (손님 객체인 "Client")  
-
-
+  
+  
 ![image](https://user-images.githubusercontent.com/43172237/96362930-ea98fe00-116b-11eb-9a3d-e4c6c2814363.png)  
 (점원 객체인 "Server")  
-
-
-![image](https://user-images.githubusercontent.com/43172237/96362936-f258a280-116b-11eb-9d7a-ac071627dcc1.png)
-
-(주방장 객체인 "Chef")
-
-
-![image](https://user-images.githubusercontent.com/43172237/96362435-3cd82000-1168-11eb-8db2-859a2a3f37cb.png)
-
-(메뉴 객체인 "Menu")
-
-
-위와 같이 각 객체(class)들은 자신에게 할당 된 **역할**에 대해 각자의 **행동(method)** 을 가지고 있으며, 
-각 객체는 각자의 **행동** 을 요청 함으로서 객체간에 **협력** 을 이행하고 각 협력의 결과로 각자의 상태값 변경 될 수 있는 것을 확인할 수 있습니다.
-
-
+  
+  
+![image](https://user-images.githubusercontent.com/43172237/96362936-f258a280-116b-11eb-9d7a-ac071627dcc1.png)  
+(주방장 객체인 "Chef")  
+  
+  
+![image](https://user-images.githubusercontent.com/43172237/96362435-3cd82000-1168-11eb-8db2-859a2a3f37cb.png)  
+(메뉴 객체인 "Menu")  
+  
+  
+위와 같이 각 객체(class)들은 자신에게 할당 된 **역할**에 대해 각자의 **행동(method)** 을 가지고 있으며,  
+각 객체는 각자의 **행동** 을 요청 함으로서 객체간에 **협력** 을 이행하고 각 협력의 결과로 각자의 상태값 변경 될 수 있는 것을 확인할 수 있습니다.  
+  
+  
 (작성 중)
 
 ## 4. 캡슐화
